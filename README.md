@@ -16,3 +16,4 @@ If you like the idea but have better ideas for execution, please get in touch wi
 Name | Mastodon account
 ----|----
 Reitse Eskens | 2meterdba@mastodon.nl
+Olivier Van Steenlandt | oliviervs@dataplatform.social
